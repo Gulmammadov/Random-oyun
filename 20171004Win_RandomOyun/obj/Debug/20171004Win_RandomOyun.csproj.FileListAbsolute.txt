@@ -1,0 +1,9 @@
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\bin\Debug\20171004Win_RandomOyun.exe.config
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\bin\Debug\20171004Win_RandomOyun.exe
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\bin\Debug\20171004Win_RandomOyun.pdb
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\obj\Debug\20171004Win_RandomOyun.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\obj\Debug\_20171004Win_RandomOyun.Form1.resources
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\obj\Debug\_20171004Win_RandomOyun.Properties.Resources.resources
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\obj\Debug\20171004Win_RandomOyun.csproj.GenerateResource.Cache
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\obj\Debug\20171004Win_RandomOyun.exe
+E:\MPD_20172018\20171004Win_RandomOyun\20171004Win_RandomOyun\obj\Debug\20171004Win_RandomOyun.pdb
